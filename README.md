@@ -33,7 +33,10 @@ Web development | Ui/Ux Designing | Linux
 
 ## 📞 Contact 
 
-<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/7970625661)</a>   <a>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:prathammishra178@gmail.com)</a>    <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/pratish_kumar_1)</a>    <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pratham-mishra-81a794204/)
+<a>[<img src="https://img.icons8.com/color/40/000000/whatsapp--v3.png"/>](https://wa.me/7970625661)</a>
+<a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:prathammishra178@gmail.com)</a>
+<a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/pratish_kumar_1)</a>
+<a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/pratham-mishra-81a794204/)
 
 ## 🎯  My Stats 
 
