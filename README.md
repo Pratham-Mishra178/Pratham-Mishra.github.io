@@ -5,14 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=pratham-mishra178&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-mishra178" />
 
 
-## About me 👾
+## About me 💀
 
 ⚡ I am an ETC undergraduate student at Veer Surendra Sai University of Technology, Burla. <br>
 ⚡ I ❤ Linux Codes. <br>
 ⚡ I am a front-end web developer and working harder to be a full-stack developer.
 
 
-## Technical Skills
+## Technical Skills 🥇🥈🥉
 
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30height="30  </a>&nbsp&nbsp  
@@ -27,15 +27,15 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30ight="30</a> &nbsp&nbsp
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30ight="30</a>&nbsp&nbsp </p>
 
-## My Interests
+## My Interests 🧩
 
 Web development | Ui/Ux Designing | Linux
 
-## Contact
+## Contact 📞
 
 <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/7970625661)</a>   <a>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:prathammishra178@gmail.com)</a>    <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/pratish_kumar_1)</a>    <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pratham-mishra-81a794204/)
 
-## My Stats
+## My Stats 🎯
 
 
 
