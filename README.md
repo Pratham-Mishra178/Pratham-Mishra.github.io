@@ -43,4 +43,4 @@ Web development | Ui/Ux Designing | Linux
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-mishra178&show_icons=true&theme=onedark&layout=compact" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-mishra178&theme=onedark&" alt="pratham-mishra178" />
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratham-Mishra178&theme=dark)](https://git.io/streak-stats)
