@@ -7,8 +7,8 @@
 
 ## About me 👾
 
-⚡ I am an ETC undergraduate student at Veer Surendra Sai University of Technology, Burla. 
-⚡ I ❤ Linux Codes.
+⚡ I am an ETC undergraduate student at Veer Surendra Sai University of Technology, Burla. <br>
+⚡ I ❤ Linux Codes. <br>
 ⚡ I am a front-end web developer and working harder to be a full-stack developer.
 
 
@@ -39,7 +39,7 @@ Web development | Ui/Ux Designing | Linux
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratham-mishra178&show_icons=true&theme=onedark&include_all_commits=true" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-mishra178&theme=onedark" alt="pratham-mishra178" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratham-mishra178&show_icons=true&theme=onedark&include_all_commits=true" /><br>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-mishra178&theme=onedark" alt="pratham-mishra178" /><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-mishra178&show_icons=true&theme=onedark&layout=compact" />
 
