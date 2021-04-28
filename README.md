@@ -27,7 +27,7 @@ href=
 
 
 
-<hr width="5%">
+<hr size="5%">
 
 
 
